@@ -35,4 +35,5 @@ docker compose up
 ![](./images/register.jpg)
 ![yelp project](https://github.com/user-attachments/assets/16757c08-5737-4661-9366-2ae7a691a0a8)
 ![putty](https://github.com/user-attachments/assets/5c233993-17be-4257-9eb7-84bb03412c52)
+![argocd](https://github.com/user-attachments/assets/4cee5577-3a2e-4a29-b567-123c2ece4da5)
 
